@@ -1,0 +1,9 @@
+classes\DBConnection.class
+classes\Main.class
+classes\Supplier.class
+classes\Transaction.class
+classes\Client.class
+servlets\AddClientServlet.class
+servlets\AddProductServlet.class
+classes\Product.class
+servlets\SellProductServlet.class
